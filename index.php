@@ -82,7 +82,7 @@
 function validateform(){  
  if(document.getElementById("at").value == '2' && document.getElementById("mid").value == '4'&& document.getElementById("def").value == '4' ){
     alert("Total cost of team: and Total point of team: ");
-	window.open("https://www.google.com/");
+	window.open("C:/Users/Sachin/Downloads/team format 1.jpeg");
 }else if(document.getElementById("at").value == '2' && document.getElementById("mid").value == '3'&& document.getElementById("def").value == '4' ){
     alert("Total cost of team: and Total point of team: ");
 	window.open("https://www.google.com/");
