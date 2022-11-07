@@ -105,10 +105,8 @@ function validateform(){
 }
 </script>  
 </body>
-
-</html>
-
-* {
+<style>
+ {
   padding: 0;
   margin: 0;
   color: #1a1f36;
@@ -341,4 +339,7 @@ a.ssolink {
   100% {
     transform: translateX(0px);
   }
-} 
+} </style>
+</html>
+
+
