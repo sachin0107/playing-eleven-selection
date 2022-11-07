@@ -81,25 +81,25 @@
 <script type='text/javascript'>
 function validateform(){  
  if(document.getElementById("at").value == '2' && document.getElementById("mid").value == '4'&& document.getElementById("def").value == '4' ){
-    alert("Total cost of team: and Total point of team: ");
+    alert("Total cost of team: 86 and Total point of team: 1500 ");
 	window.open("https://github.com/sachin0107/playing-eleven-selection/blob/main/team%20format%202.jpeg");
 }else if(document.getElementById("at").value == '2' && document.getElementById("mid").value == '3'&& document.getElementById("def").value == '4' ){
-    alert("Total cost of team: and Total point of team: ");
+    alert("Total cost of team: 76 and Total point of team: 1255 ");
 	window.open("https://github.com/sachin0107/playing-eleven-selection/blob/main/team%20format%201.jpeg");
 }else if(document.getElementById("at").value == '1' && document.getElementById("mid").value == '5'&& document.getElementById("def").value == '4' ){
-    alert("Total cost of team: and Total point of team: ");
+    alert("Total cost of team: 64 and Total point of team:1185 ");
 	window.open("https://github.com/sachin0107/playing-eleven-selection/blob/main/lineup3%20with%20name.jpeg");
 }else if(document.getElementById("at").value == '1' && document.getElementById("mid").value == '4'&& document.getElementById("def").value == '5' ){
-    alert("Total cost of team: and Total point of team: ");
+    alert("Total cost of team:68 and Total point of team:1937 ");
 	window.open("https://github.com/sachin0107/playing-eleven-selection/blob/main/lineup4%20with%20name.jpeg");
 }else if(document.getElementById("at").value == '2' && document.getElementById("mid").value == '3'&& document.getElementById("def").value == '5' ){
-    alert("Total cost of team: and Total point of team: ");
+    alert("Total cost of team:88 and Total point of team:2692 ");
 	window.open("https://github.com/sachin0107/playing-eleven-selection/blob/main/lineup5%20with%20name.jpeg");
 }else if(document.getElementById("at").value == '3' && document.getElementById("mid").value == '4'&& document.getElementById("def").value == '3' ){
-    alert("Total cost of team: and Total point of team: ");
+    alert("Total cost of team:94 and Total point of team:2986");
 	window.open("https://github.com/sachin0107/playing-eleven-selection/blob/main/lineup6%20with%20name.jpeg");
 }else if(document.getElementById("at").value == '2' && document.getElementById("mid").value == '5'&& document.getElementById("def").value == '3' ){
-    alert("Total cost of team: and Total point of team: ");	
+    alert("Total cost of team: 97 and Total point of team: 2164 ");	
 	window.open("https://github.com/sachin0107/playing-eleven-selection/blob/main/lineup7%20with%20name.jpeg");
 }
 }
