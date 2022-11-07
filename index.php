@@ -1,1 +1,109 @@
-{}
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>minor project</title>
+  <link rel="stylesheet" type="text/css" href="C:\Users\Sachin\Desktop\index.css">
+</head>
+
+<body>
+  <div class="login-root">
+    <div class="box-root flex-flex flex-direction--column" style="min-height: 100vh;flex-grow: 1;">
+      <div class="loginbackground box-background--white padding-top--64">
+        <div class="loginbackground-gridContainer">
+          <div class="box-root flex-flex" style="grid-area: top / start / 8 / end;">
+            <div class="box-root" style="background-image: linear-gradient(white 0%, rgb(247, 250, 252) 33%); flex-grow: 1;">
+            </div>
+          </div>
+          <div class="box-root flex-flex" style="grid-area: 4 / 2 / auto / 5;">
+            <div class="box-root box-divider--light-all-2 animationLeftRight tans3s" style="flex-grow: 1;"></div>
+          </div>
+          <div class="box-root flex-flex" style="grid-area: 6 / start / auto / 2;">
+            <div class="box-root box-background--blue800" style="flex-grow: 1;"></div>
+          </div>
+          <div class="box-root flex-flex" style="grid-area: 7 / start / auto / 4;">
+            <div class="box-root box-background--blue animationLeftRight" style="flex-grow: 1;"></div>
+          </div>
+          <div class="box-root flex-flex" style="grid-area: 8 / 4 / auto / 6;">
+            <div class="box-root box-background--gray100 animationLeftRight tans3s" style="flex-grow: 1;"></div>
+          </div>
+          <div class="box-root flex-flex" style="grid-area: 2 / 15 / auto / end;">
+            <div class="box-root box-background--cyan200 animationRightLeft tans4s" style="flex-grow: 1;"></div>
+          </div>
+          <div class="box-root flex-flex" style="grid-area: 3 / 14 / auto / end;">
+            <div class="box-root box-background--blue animationRightLeft" style="flex-grow: 1;"></div>
+          </div>
+          <div class="box-root flex-flex" style="grid-area: 4 / 17 / auto / 20;">
+            <div class="box-root box-background--gray100 animationRightLeft tans4s" style="flex-grow: 1;"></div>
+          </div>
+          <div class="box-root flex-flex" style="grid-area: 5 / 14 / auto / 17;">
+            <div class="box-root box-divider--light-all-2 animationRightLeft tans3s" style="flex-grow: 1;"></div>
+          </div>
+        </div>
+      </div>
+      <div class="box-root padding-top--24 flex-flex flex-direction--column" style="flex-grow: 1; z-index: 9;">
+        <div class="box-root padding-top--48 padding-bottom--24 flex-flex flex-justifyContent--center">
+          <h1><a rel="dofollow">CIT FOOTBALL TEAM</a></h1>
+        </div>
+        <div class="formbg-outer">
+          <div class="formbg">
+            <div class="formbg-inner padding-horizontal--48">
+              <span class="padding-bottom--15">Select the lineup format</span>
+              <form method="post" action="" enctype="multipart/form-data"  onsubmit="validateform(this) ">
+                <div class="field padding-bottom--24">
+				<p>Attacker <input type="text" name="username" id='at'></p>
+                </div>
+                <div class="field padding-bottom--24">
+                  <div class="grid--50-50">
+                  </div>
+                  <p>Mid fielder<input type="text" name="username" id='mid'></p>
+                </div>
+                <div class="field padding-bottom--24">
+				<p>Defender<input type="text" name="username" id='def'></p>
+                </div>
+                
+                <div class="field field-checkbox padding-bottom--24 flex-flex align-center">
+                
+                </div>
+                <div class="field padding-bottom--24">
+                  <input type="submit" name="submit" value="SUBMIT">
+                </div>
+                </div>
+              </form>
+            </div>
+          </div>
+         
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<script type='text/javascript'>
+function validateform(){  
+ if(document.getElementById("at").value == '2' && document.getElementById("mid").value == '4'&& document.getElementById("def").value == '4' ){
+    alert("Total cost of team: and Total point of team: ");
+	window.open("C:/Users/Sachin/Downloads/team format 1.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
+}else if(document.getElementById("at").value == '2' && document.getElementById("mid").value == '3'&& document.getElementById("def").value == '4' ){
+    alert("Total cost of team: and Total point of team: ");
+	window.open("C:/Users/Sachin/Downloads/team format 2.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
+}else if(document.getElementById("at").value == '1' && document.getElementById("mid").value == '5'&& document.getElementById("def").value == '4' ){
+    alert("Total cost of team: and Total point of team: ");
+	window.open("C:/Users/Sachin/Downloads/lineup3 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
+}else if(document.getElementById("at").value == '1' && document.getElementById("mid").value == '4'&& document.getElementById("def").value == '5' ){
+    alert("Total cost of team: and Total point of team: ");
+	window.open("C:/Users/Sachin/Downloads/lineup4 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
+}else if(document.getElementById("at").value == '2' && document.getElementById("mid").value == '3'&& document.getElementById("def").value == '5' ){
+    alert("Total cost of team: and Total point of team: ");
+	window.open("C:/Users/Sachin/Downloads/lineup5 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
+}else if(document.getElementById("at").value == '3' && document.getElementById("mid").value == '4'&& document.getElementById("def").value == '3' ){
+    alert("Total cost of team: and Total point of team: ");
+	window.open("C:/Users/Sachin/Downloads/lineup6 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
+}else if(document.getElementById("at").value == '2' && document.getElementById("mid").value == '5'&& document.getElementById("def").value == '3' ){
+    alert("Total cost of team: and Total point of team: ");	
+	window.open("C:/Users/Sachin/Downloads/lineup7 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
+}
+}
+</script>  
+</body>
+
+</html>
