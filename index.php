@@ -82,25 +82,25 @@
 function validateform(){  
  if(document.getElementById("at").value == '2' && document.getElementById("mid").value == '4'&& document.getElementById("def").value == '4' ){
     alert("Total cost of team: and Total point of team: ");
-	window.open("https://www.google.com/");
+	window.open("https://github.com/sachin0107/playing-eleven-selection/blob/main/team%20format%202.jpeg");
 }else if(document.getElementById("at").value == '2' && document.getElementById("mid").value == '3'&& document.getElementById("def").value == '4' ){
     alert("Total cost of team: and Total point of team: ");
 	window.open("https://github.com/sachin0107/playing-eleven-selection/blob/main/team%20format%201.jpeg");
 }else if(document.getElementById("at").value == '1' && document.getElementById("mid").value == '5'&& document.getElementById("def").value == '4' ){
     alert("Total cost of team: and Total point of team: ");
-	window.open("C:/Users/Sachin/Downloads/lineup3 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
+	window.open("https://github.com/sachin0107/playing-eleven-selection/blob/main/lineup3%20with%20name.jpeg");
 }else if(document.getElementById("at").value == '1' && document.getElementById("mid").value == '4'&& document.getElementById("def").value == '5' ){
     alert("Total cost of team: and Total point of team: ");
-	window.open("C:/Users/Sachin/Downloads/lineup4 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
+	window.open("https://github.com/sachin0107/playing-eleven-selection/blob/main/lineup4%20with%20name.jpeg");
 }else if(document.getElementById("at").value == '2' && document.getElementById("mid").value == '3'&& document.getElementById("def").value == '5' ){
     alert("Total cost of team: and Total point of team: ");
-	window.open("C:/Users/Sachin/Downloads/lineup5 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
+	window.open("https://github.com/sachin0107/playing-eleven-selection/blob/main/lineup5%20with%20name.jpeg");
 }else if(document.getElementById("at").value == '3' && document.getElementById("mid").value == '4'&& document.getElementById("def").value == '3' ){
     alert("Total cost of team: and Total point of team: ");
-	window.open("C:/Users/Sachin/Downloads/lineup6 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
+	window.open("https://github.com/sachin0107/playing-eleven-selection/blob/main/lineup6%20with%20name.jpeg");
 }else if(document.getElementById("at").value == '2' && document.getElementById("mid").value == '5'&& document.getElementById("def").value == '3' ){
     alert("Total cost of team: and Total point of team: ");	
-	window.open("C:/Users/Sachin/Downloads/lineup7 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
+	window.open("https://github.com/sachin0107/playing-eleven-selection/blob/main/lineup7%20with%20name.jpeg");
 }
 }
 </script>  
