@@ -82,25 +82,25 @@
 function validateform(){  
  if(document.getElementById("at").value == '2' && document.getElementById("mid").value == '4'&& document.getElementById("def").value == '4' ){
     alert("Total cost of team: and Total point of team: ");
-	window.open("C:/Users/Sachin/Downloads/team format 1.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
+	window.open("team format 1.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
 }else if(document.getElementById("at").value == '2' && document.getElementById("mid").value == '3'&& document.getElementById("def").value == '4' ){
     alert("Total cost of team: and Total point of team: ");
-	window.open("C:/Users/Sachin/Downloads/team format 2.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
+	window.open("team format 2.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
 }else if(document.getElementById("at").value == '1' && document.getElementById("mid").value == '5'&& document.getElementById("def").value == '4' ){
     alert("Total cost of team: and Total point of team: ");
-	window.open("C:/Users/Sachin/Downloads/lineup3 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
+	window.open("lineup3 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
 }else if(document.getElementById("at").value == '1' && document.getElementById("mid").value == '4'&& document.getElementById("def").value == '5' ){
     alert("Total cost of team: and Total point of team: ");
-	window.open("C:/Users/Sachin/Downloads/lineup4 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
+	window.open("lineup4 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
 }else if(document.getElementById("at").value == '2' && document.getElementById("mid").value == '3'&& document.getElementById("def").value == '5' ){
     alert("Total cost of team: and Total point of team: ");
-	window.open("C:/Users/Sachin/Downloads/lineup5 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
+	window.open("lineup5 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
 }else if(document.getElementById("at").value == '3' && document.getElementById("mid").value == '4'&& document.getElementById("def").value == '3' ){
     alert("Total cost of team: and Total point of team: ");
-	window.open("C:/Users/Sachin/Downloads/lineup6 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
+	window.open("lineup6 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
 }else if(document.getElementById("at").value == '2' && document.getElementById("mid").value == '5'&& document.getElementById("def").value == '3' ){
     alert("Total cost of team: and Total point of team: ");	
-	window.open("C:/Users/Sachin/Downloads/lineup7 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
+	window.open("lineup7 with name.jpeg",'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1');
 }
 }
 </script>  
